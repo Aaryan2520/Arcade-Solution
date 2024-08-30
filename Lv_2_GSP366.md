@@ -1,5 +1,4 @@
-# Level 2 
-# GSP366
+# Level 2 || GSP366
 
 ## Step 1 || Run on VM instance
 
