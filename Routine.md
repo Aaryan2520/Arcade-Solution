@@ -1,4 +1,3 @@
-Here's the final version of your routine, adjusted to your preferences:
 
 ---
 
