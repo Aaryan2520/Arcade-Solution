@@ -2,7 +2,7 @@
 ---
 
 ## Morning Routine
-1. **Wake Up**: **6-7 AM**
+- **Wake Up**: **6-7 AM**
 2. **Milk Run**: **20 minutes** (after waking up).
 3. **Freshen Up + Bath**: **7:20-7:45 AM**
 4. **Puja**: **7:45-8:00 AM**
