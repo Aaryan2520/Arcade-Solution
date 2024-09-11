@@ -32,12 +32,3 @@
 
 ---
 
-### Apps for Tracking Your Routine
-To track and manage this routine with notifications and completion tracking, try these apps:
-
-1. **Todoist**: You can set tasks with reminders and mark them complete.
-2. **Habitica**: Gamify your tasks by setting them up as daily habits with notifications.
-3. **TickTick**: A powerful to-do list app that lets you create custom reminders.
-4. **Google Calendar**: You can set events with reminders and use it to track daily activities.
-
-All of these apps allow you to set tasks with notifications at specific times and track completion. Would you like help setting one of them up?
