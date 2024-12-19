@@ -1,12 +1,12 @@
 # Introduction to Webhooks Quiz
 
-## 1. Which type of webhook offers greater control over the request and response payloads?
+### 1. Which type of webhook offers greater control over the request and response payloads?
 
 ```
 The webhook is currently active and will be used by Dialogflow.
 ```
 
-## 2. What are the names of the two available webhook types?
+### 2. What are the names of the two available webhook types?
 
 ```
 
